@@ -7,8 +7,8 @@ export class ContactService{
         return res.data;
     }
 
-    async save(usuario){    
-        const res = await axios.post(this.baseUrl + "user", usuario);
+    async save(contact){    
+        const res = await axios.post(this.baseUrl + "user", contact);
         return res.data;
     }
 
