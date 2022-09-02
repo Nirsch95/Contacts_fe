@@ -1,3 +1,10 @@
+# Entrega
+Se hace entrega del taller de CRUD por parte del Frontend. 
+
+
+## Enlace para acceder al Backend
+[Backend](https://github.com/Nirsch95/contacts)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
