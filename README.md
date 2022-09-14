@@ -21,13 +21,15 @@ Por favor tener presente los siguientes requerimientos
 
 ![](https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b)
 
-*	Spring Boot
+*	VSC
 
-![](https://miro.medium.com/max/256/0*Qrh5x0L5XWFRvA9P.png)
+![](https://code.visualstudio.com/assets/apple-touch-icon.png)
 
-* Intellij Idea
+*	Nodejs
 
-![](https://dashboard.snapcraft.io/site_media/appmedia/2017/10/logo_zjwX5FR.png)
+![](https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png)
+
+*	Expressjs
 
 Pagina con la estructura de tabla para poder mostrar los elementos
 ![image](https://user-images.githubusercontent.com/37886668/190059607-e5449722-d14f-4a97-af2d-3bfcf95604c2.png)
